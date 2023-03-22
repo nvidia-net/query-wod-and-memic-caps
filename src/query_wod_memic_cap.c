@@ -1,4 +1,4 @@
-#include "../include/query_wod_memic_cap.h"
+#include <query_wod_memic_cap.h>
 
 int get_general_device_cap( struct ibv_context *ctx, 
                             int *is_wod_supported,

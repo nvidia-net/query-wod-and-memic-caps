@@ -1,4 +1,4 @@
-#include "get_cap.h"
+#include <query_wod_memic_cap.h>
 
 int main()
 {
